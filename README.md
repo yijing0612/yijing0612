@@ -1,4 +1,3 @@
-![Background](https://github.com/yijing0612/yijing0612/blob/main/background.jpeg)
 <h1 align="center">Hi 👋, I'm Yi Jing Lim</h1>
 <h3 align="center">A passionate AI Undergraduate from Malaysia</h3>
 
