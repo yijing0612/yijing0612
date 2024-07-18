@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LLM on Medical Domains**
 
-- 🌱 I’m currently learning **Reducing Cost of LLM**
+- 🌱 I’m currently learning **Deployment of LLM in Real World**
 
 - 📫 How to reach me **yijinglim020612@gmail.com**
 
