@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yi Jing Lim</h1>
-<h3 align="center">A passionate AI Undergraduate from Malaysia</h3>
+<h3 align="center">An AI Undergraduate from XMU</h3>
 
 - 🔭 I’m currently working on **LLM on Medical Domains**
 
