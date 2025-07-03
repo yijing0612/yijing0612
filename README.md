@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LLM Agent**
 
-- 🌱 I’m currently learning **MLOps and LLMOps**
+- 🌱 I’m currently learning **Multi-Agent System**
 
 - 📫 How to reach me **yijinglim020612@gmail.com**
 
