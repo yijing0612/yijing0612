@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yi Jing Lim</h1>
 <h3 align="center">An Algorithm Engineer</h3>
 
-- 🔭 I’m currently working on **LLM Agent**
+- 🔭 I’m currently working on **LLM & AI Agents**
 
-- 🌱 I’m currently learning **Multi-Agent System**
+- 🌱 I’m currently learning **Memory Mechanism in Multi-Agent System**
 
 - 📫 How to reach me **yijinglim020612@gmail.com**
 
