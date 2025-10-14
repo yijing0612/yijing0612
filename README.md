@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LLM**
 
-- 🌱 I’m currently learning **LLMOps and Agentic Memory*
+- 🌱 I’m currently learning **LLMOps and Agentic Memory**
 
 - 📫 How to reach me **yijinglim020612@gmail.com**
 
