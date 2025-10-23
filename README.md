@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yi Jing Lim</h1>
 <h3 align="center">An Algorithm Engineer</h3>
 
-- 🔭 I’m currently working on **LLM**
+- 🔭 I’m currently working on **LLM & Vertical SLM**
 
 - 🌱 I’m currently learning **LLMOps and Agentic Memory**
 
