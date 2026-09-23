@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yi Jing Lim</h1>
-<h3 align="center">An Algorithm Engineer</h3>
+<h3 align="center">A Data Scientist</h3>
 
 - 🔭 I’m currently working on **Agentic AI, Knowledge Graphs, SLM**
 
